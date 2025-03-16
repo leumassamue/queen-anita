@@ -1,0 +1,7 @@
+{
+  "active": false,
+  "players": ["1234567890@s.whatsapp.net", "0987654321@s.whatsapp.net"],
+  "currentTurn": 0,
+  "wordLength": 3,
+  "timer": 60000
+}
